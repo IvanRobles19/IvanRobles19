@@ -71,7 +71,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/></a>
   <a href="https://axios-http.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="40" height="40" alt="Axios"/></a>
   <a href="https://github.com/parallax/jsPDF" target="_blank"><img src="https://avatars.githubusercontent.com/u/1089146?s=200&v=4" width="40" height="40" alt="jsPDF"/></a>
-  <a href="https://github.com/zxing-js/library" target="_blank"><img src="https://avatars.githubusercontent.com/u/1507263?s=200&v=4" width="40" height="40" alt="ZXing"/></a>
 </p>
 
 ### 📈 GitHub Stats
