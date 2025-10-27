@@ -22,6 +22,7 @@
 
 <br>
 <h3 align="left">Tecnologías y Herramientas:</h3>
+
 ### 🎨 **Frontend**
 <p align="left">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/></a>
